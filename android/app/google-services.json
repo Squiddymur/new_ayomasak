@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431274829781",
+    "project_id": "ayomasak-adc9e",
+    "storage_bucket": "ayomasak-adc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431274829781:android:02f1b3b5351eee4bb5ff5c",
+        "android_client_info": {
+          "package_name": "com.example.ayomasak_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0RzqOjo8cEdYG8mr6xAAkqn4iTxSHdGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
